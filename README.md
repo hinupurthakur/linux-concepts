@@ -34,11 +34,16 @@ You can’t kill a zombie process because it’s already dead. It won’t respon
 NOTE: Zombies Aren’t Scary …
 … unless they’re in a massive horde. A few aren’t anything to worry about and a simple reboot will wipe them out.
 
+<h3> 3. Samba Server </h3>
 
+Samba is an extremely useful networking tool for anyone who has both Windows and Unix systems on his network. Running on a Unix system, it allows Windows to share files and printers on the Unix host, and it also allows Unix users to access resources shared by Windows systems.
+
+Samba is a suite of Unix applications that speak the Server Message Block (SMB) protocol. Microsoft Windows operating systems and the OS/2 operating system use SMB to perform client-server networking for file and printer sharing and associated operations. By supporting this protocol, Samba enables computers running Unix to get in on the action, communicating with the same networking protocol as Microsoft Windows and appearing as another Windows system on the network from the perspective of a Windows client.
 
 
 
 Ref:
  * https://www.geeksforgeeks.org/zombie-and-orphan-processes-in-c/
  * https://www.howtogeek.com/701971/how-to-kill-zombie-processes-on-linux/
+ * https://www.samba.org/samba/docs/using_samba/ch01.html
 
