@@ -40,6 +40,10 @@ Samba is an extremely useful networking tool for anyone who has both Windows and
 
 Samba is a suite of Unix applications that speak the Server Message Block (SMB) protocol. Microsoft Windows operating systems and the OS/2 operating system use SMB to perform client-server networking for file and printer sharing and associated operations. By supporting this protocol, Samba enables computers running Unix to get in on the action, communicating with the same networking protocol as Microsoft Windows and appearing as another Windows system on the network from the perspective of a Windows client.
 
+<h3> 4. TLB </h3> 
+
+TLB (Translation Lookaside Buffer)
+![GFG Image](https://media.geeksforgeeks.org/wp-content/uploads/20190225192626/tlb1.jpg)
 
 
 Ref:
