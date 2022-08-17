@@ -1,5 +1,4 @@
 # linux-concepts
-Linux/ Unix Basic Concepts that I keep forgetting for no goddamn reason
 
 <h3>1. Inode </h3>
 An Inode is a data structure containing metadata about the files.
