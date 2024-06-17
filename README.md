@@ -49,7 +49,7 @@ TLB (Translation Lookaside Buffer)
 Use `pbcopy` with pipe for copying the output of the previous command. e.g.
 
 ```cat abc.txt | pbcopy```
-<h3> `w` Command </h3>
+<h3> 6. `w` Command </h3>
 `w` command in Linux shows logged-in users and their activities.
 <img width="595" alt="image" src="https://github.com/hinupurthakur/linux-concepts/assets/39610703/33ff1bdd-cbac-4ae0-b607-5a62301d6b26">
 
